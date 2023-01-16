@@ -1,5 +1,7 @@
+import {Index} from "../views/main";
+
 export class MainController{
     public index(){
-        return <div>this is main</div>
+        return <Index />
     }
 }

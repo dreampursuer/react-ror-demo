@@ -1,12 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {controllerMapping, layoutMapping, AccessCheck} from "./conf/ApplicationConfig";
 import {ReactRorApp} from "react-ror";
-import {controllerMapping} from "./conf/ControllerMapping";
 
 function App() {
   return (
-    <ReactRorApp controllerMapping={controllerMapping} />
+      <ReactRorApp controllerMapping={controllerMapping} layoutMapping={layoutMapping} accessCheck={AccessCheck} />
   );
 }
 
