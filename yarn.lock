@@ -8089,10 +8089,10 @@ react-refresh@^0.11.0, "react-refresh@>=0.10.0 <1.0.0":
   resolved "https://registry.npmjs.org/react-refresh/-/react-refresh-0.11.0.tgz"
   integrity sha512-F27qZr8uUqwhWZboondsPx8tnC3Ct3SxZA3V5WyEvujRyyNv0VYPhoBg1gZ8/MV5tubQp76Trw8lTv9hzRBa+A==
 
-react-ror@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.npmjs.org/react-ror/-/react-ror-0.1.4.tgz"
-  integrity sha512-IhA7NDk4vhqGp9h27TAcOOIpmvqAYLnzvtOttCbiDaz+Uooz/xDkklxlAgrYWukKhjkeBfB5B4VcAxc/lqgY0Q==
+react-ror@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.npmjs.org/react-ror/-/react-ror-0.1.6.tgz"
+  integrity sha512-KF8/uyuf7Rcm+v3lOM+47mdLDJgCCN/aJLZGJbWfFVVf1bGvbxcAsHjDRQA4BcAPpYJHerfc0Y4RRdAj29uy+Q==
   dependencies:
     "@types/node" "^18.11.18"
     react-router-dom "^6.6.1"
